@@ -18,6 +18,36 @@ elon musk rockets (plain text)
   * Modern rockets 
   * Utopic rockets
 
+another list:
+- George Washington
+- John Adams
+- Thomas Jefferson
+
+ordered list:
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
+
+nested list:
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+task list:
+- [x] check me
+- [ ] ahaha
+- [ ] Add delight to the experience when all tasks are complete 
+
+mentioning: 
+@github/ececi hello
+
+<!-- This content will not appear in the rendered Markdown -->
+
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+emoji:
+:tada:
+
 this is a code sample:
 ~~~
 define show() {
@@ -55,7 +85,7 @@ Text that is not a quote
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-
+[this is a relative link](atasagi2.PNG)
 
 
 [^1]: Footnote text goes here.
